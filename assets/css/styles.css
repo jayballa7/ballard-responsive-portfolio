@@ -1,19 +1,23 @@
-@import url('https://fonts.googleapis.com/css?family=Questrial&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono&display=swap');
 
-.nav {
-    font-family: 'Questrial', sans-serif;
-}
+html {
+    position: relative;
+    min-height: 100%;
+  }
 
 body {
     background-image:url("../images/woven_@2X.png");
+    margin-bottom: 60px;
 }
 
 .navbar {
     background-color:teal;
+    font-family: 'Roboto Mono', monospace;
+    font-size:large;
 }
 
 .container {
-    margin-top:5%;
+    margin-top:10%;
 }
 
 img {
@@ -23,4 +27,3 @@ img {
 .card-body {
     border:2px solid teal;
 }
-
