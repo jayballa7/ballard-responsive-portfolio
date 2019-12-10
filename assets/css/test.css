@@ -1,0 +1,11 @@
+body {
+    background-image:url("../images/woven_@2X.png");
+}
+
+.navbar {
+    background-color:teal;
+}
+
+.container {
+    margin-top:10%;
+}

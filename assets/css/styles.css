@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Questrial&display=swap');
+
+.nav {
+    font-family: 'Questrial', sans-serif;
+}
+
+body {
+    background-image:url("../images/woven_@2X.png");
+}
+
+.navbar {
+    background-color:teal;
+}
+
+.container {
+    margin-top:5%;
+}
+
+img {
+    border:2px solid teal;
+}
+
+.card-body {
+    border:2px solid teal;
+}
+
